@@ -1,3 +1,2 @@
 # SkillFactory Data Science Homework
-Game: Guess the number
-https://github.com/13Sanch/guess_the_number_game/tree/main/Project_0
+HeadHunter Work: https://colab.research.google.com/drive/1LaaI0vM6GLTw7d5zdBMybbF8TM-T_avG
